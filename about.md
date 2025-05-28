@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I'm Sohyun Jang.
+
+### About Me
+- Major : Industrial and Information Systems Engineering(IISE) & Applied Artificial Intelligence(AAI)
+- Year : Senior (4th year)
+
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+- GitHub : Xinaroo
